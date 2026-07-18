@@ -1,6 +1,6 @@
 # 📚 Jupyter Hub — Tutoriais Interativos de Programação
 
-**Dois cursos completos e gratuitos em português, desenvolvidos inteiramente em Jupyter Notebooks.**
+**Três trilhas completas de aprendizado em português, desenvolvidas inteiramente em Jupyter Notebooks.**
 
 ---
 
@@ -134,3 +134,29 @@ Jupyter-hub/
 
 > 🚀 *Navegue até a pasta do tutorial desejado e abra os notebooks no Jupyter
 > para começar a estudar!*
+
+---
+
+## 📜 Créditos e Atribuições
+
+Este projeto foi **fortemente baseado nos tutoriais da [W3Schools](https://www.w3schools.com/)**, um dos maiores e mais respeitados sites de aprendizado de programação e tecnologia do mundo.
+
+### 🐍 Curso de Python
+
+O **Curso Completo de Python** (35 capítulos) foi desenvolvido a partir da estrutura e do conteúdo do [W3Schools Python Tutorial](https://www.w3schools.com/python/), expandido e contextualizado para o público brasileiro. Cada capítulo segue a progressão pedagógica proposta pela W3Schools, com acréscimo de explicações detalhadas em português, exemplos extras, exercícios práticos e projetos.
+
+### 📊 Curso de Estatística
+
+O **Curso Completo de Estatística** (42 capítulos) foi desenvolvido a partir do [W3Schools Statistics Tutorial](https://www.w3schools.com/statistics/), seguindo a mesma estrutura de tópicos e a ordem de apresentação dos conceitos. Todo o conteúdo foi adaptado para o português e reescrito com exemplos em Python usando NumPy, SciPy, Matplotlib e Pandas.
+
+### 📓 Tutorial Jupyter
+
+O **Tutorial de Jupyter Notebook** (16 capítulos) é conteúdo original, desenvolvido especificamente para este projeto, e não possui vínculo com a W3Schools.
+
+### ✅ Licenciamento e Boas Práticas
+
+- Todo o material foi **adaptado e reescrito** em português, respeitando a estrutura pedagógica original dos tutoriais da W3Schools.
+- Os cursos foram desenvolvidos **para fins educacionais**, como material de apoio para estudantes brasileiros autodidatas.
+- Em todas as dúvidas e referências ao longo dos notebooks, o site da [W3Schools](https://www.w3schools.com/) é citado como fonte principal de consulta.
+- Recomendamos que os alunos consultem diretamente o site da [W3Schools](https://www.w3schools.com/) como complemento aos estudos, especialmente para exercícios adicionais e referência rápida.
+- Este projeto não possui vínculo oficial com a W3Schools nem substitui o conteúdo original disponível no site.
