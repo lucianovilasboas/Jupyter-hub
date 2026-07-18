@@ -11,12 +11,13 @@ qualidade para quem quer aprender programação do zero ou aprimorar suas
 habilidades. Tudo é feito em **Jupyter Notebooks** — arquivos interativos que
 combinam explicações, código executável e visualizações em um só lugar.
 
-O projeto é dividido em duas grandes trilhas de aprendizado:
+O projeto é dividido em três grandes trilhas de aprendizado:
 
 | Trilha | Foco | Nível | Capítulos |
 |--------|------|-------|-----------|
 | 📓 **Jupyter Notebook** | Aprender a usar a ferramenta Jupyter | Iniciante | 16 |
 | 🐍 **Python Completo** | Aprender Python do zero ao avançado | Iniciante ao Avançado | 35 |
+| 📊 **Estatística** | Aprender Estatística com Python | Intermediário | 42 |
 
 ---
 
@@ -45,6 +46,18 @@ Visualização com Matplotlib e Machine Learning.
 
 ➡️ [`Tutorial_Python/README.md`](Tutorial_Python/README.md)
 
+## 📊 Curso: Estatística
+
+> **A análise dos dados.** Domine os conceitos estatísticos com Python.
+
+Curso completo de Estatística com **42 capítulos** baseado no tutorial da W3Schools
+Statistics, adaptado para o público brasileiro. Cobre desde conceitos fundamentais
+(introdução, coleta de dados, tipos de estudo) até estatística descritiva (média,
+mediana, desvio padrão, histogramas) e inferencial (distribuições, testes de
+hipótese, estimação). Todos os exemplos em Python com NumPy, SciPy e Matplotlib.
+
+➡️ [`Tutorial_Estatistica/README.md`](Tutorial_Estatistica/README.md)
+
 ---
 
 ## 🎯 Público-alvo
@@ -68,7 +81,7 @@ Visualização com Matplotlib e Machine Learning.
    `pip install -r requirements.txt`
 3. Inicie o Jupyter: `jupyter notebook` ou `jupyter lab`
 4. Navegue até a pasta do tutorial desejado e abra o notebook `J00_Index_Jupyter.ipynb`
-   (Jupyter) ou `00_Index.ipynb` (Python)
+   (Jupyter), `00_Index.ipynb` (Python) ou `S00_Index_Estatistica.ipynb` (Estatística)
 
 > 💡 **Dica:** Siga a ordem numérica dos arquivos. Cada capítulo assume que
 > você já viu o anterior.
@@ -91,6 +104,12 @@ Jupyter-hub/
 │   ├── 01_Introducao_e_Ambiente.ipynb
 │   ├── ...
 │   └── 35_MongoDB.ipynb
+│
+├── Tutorial_Estatistica/      # 43 notebooks — Curso de Estatística
+│   ├── S00_Index_Estatistica.ipynb
+│   ├── S01_Introducao_Estatisticas.ipynb
+│   ├── ...
+│   └── S42_Teste_Media_Bicaudal.ipynb
 │
 ├── jupyterhub_client.py       # Cliente REST API para gerenciar JupyterHub
 ├── requirements.txt           # Dependências do projeto
